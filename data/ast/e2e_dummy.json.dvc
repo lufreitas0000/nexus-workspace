@@ -1,0 +1,5 @@
+outs:
+- md5: a22f80a9ef421c8430c6867e2e538918
+  size: 182
+  hash: md5
+  path: e2e_dummy.json

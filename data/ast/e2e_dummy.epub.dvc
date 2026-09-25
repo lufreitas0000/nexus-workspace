@@ -1,0 +1,5 @@
+outs:
+- md5: 67c1a175f404bd38ee019d95d6ca09c2
+  size: 3608
+  hash: md5
+  path: e2e_dummy.epub
